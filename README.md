@@ -20,8 +20,8 @@ The system programmatically calculates and returns the following analytics:
 
 | Rank | Player | Wins | Top Score | Win% | Losses | Games Played |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1** | John Doe | 15 | 289 | **75%** | 5 | 20 |
-| **2** | Jane Smith | 12 | 245 | **60%** | 8 | 20 |
+| **1** | Temi | 15 | 289 | **75%** | 5 | 20 |
+| **2** | Biko | 12 | 245 | **60%** | 8 | 20 |
 
 ---
 
